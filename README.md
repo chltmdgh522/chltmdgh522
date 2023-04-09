@@ -1,4 +1,4 @@
-### Hi ChoiSeungHo 👋
+### Hi Choi최승호SeungHo 👋
 
 <!--
 **chltmdgh522/chltmdgh522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
