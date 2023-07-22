@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 
 <h1>👯 project</h1>
-<span>2023 kakaoTalk_Project</span>
-<span>2023 Chrome_Momentum_Project</span>
-<span>2023 Weather App</span>
+<div>2023 kakaoTalk_Project</div>
+<div>2023 Chrome_Momentum_Project</div>
+<div>2023 Weather App</div>
