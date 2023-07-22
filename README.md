@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 <h1>👯 project</h1>
 <div>
 <a href=https://github.com/chltmdgh522/KaKaoTalk_Project>2023 kakaoTalk_Project</a></div>
-<div>2023 Chrome_Momentum_Project</div>
+<div>
+  <a href=https://github.com/chltmdgh522/Chrome_Momentum_Project>2023 Chrome_Momentum_Project</a></div>
+
 <div>2023 Weather App</div>
