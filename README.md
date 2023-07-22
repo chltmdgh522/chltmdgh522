@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&langs_count=10&layout=compact&theme=dark)](https://github.com/chltmdgh522/chltmdgh522)
 
 
+👯 project
+2023 kakaoTalk_Project
+2023 Chrome_Momentum_Project
+2023 Weather App
