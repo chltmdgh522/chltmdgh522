@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&langs_count=10&layout=compact&theme=dark)](https://github.com/chltmdgh522/chltmdgh522)
 
 
-<h1>👯 project</h1>
+<h1>👯 Project</h1>
 <div>
 <a href=https://github.com/chltmdgh522/KaKaoTalk_Project>2023 kakaoTalk_Project</a></div>
-<div>
-  <a href=https://github.com/chltmdgh522/Chrome_Momentum_Project>2023 Chrome_Momentum_Project</a></div>
-
-<div>2023 Weather App</div>
+<br>
+<div><a href=https://github.com/chltmdgh522/Chrome_Momentum_Project>2023 Chrome_Momentum_Project</a></div>
+<br>
+<div><a href=https://github.com/chltmdgh522/WeatherApp>2023 Weather App</a></div>
