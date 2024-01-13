@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&langs_count=10&layout=compact&theme=dark)](https://github.com/chltmdgh522/chltmdgh522)
 
-
 <h1>👯 Project</h1>
 <div>
 <a href=https://github.com/chltmdgh522/DonationProject>2024 후원 모금</a></div>
+<br>
+<div>
+<a href=https://github.com/chltmdgh522/Travel_AI>2023 여행 추천사이트</a></div>
 <br>
 <div>
 <a href=https://github.com/chltmdgh522/KaKaoTalk_Project>2023 kakaoTalk_Project</a></div>
