@@ -1,37 +1,13 @@
-### 👋백엔드개발자 꿈나무 🐨승호의 🖥️저장소!!!! 👋
-
-<!--
-**chltmdgh522/chltmdgh522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Seung Ho🤠
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chltmdgh522&show_icons=true&theme=default&bg_color=ffffff)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chltmdgh522&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&langs_count=10&layout=compact&theme=white)](https://github.com/chltmdgh522/chltmdgh522)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&langs_count=10&layout=compact&theme=dark)](https://github.com/chltmdgh522/chltmdgh522)
-
-<h1>👯 Project</h1>
-<div>
-<a href=https://github.com/chltmdgh522/DonationProject>2024 후원 모금</a></div>
-<br>
-<div>
-<a href=https://github.com/chltmdgh522/Travel_AI>2023 여행 추천사이트</a></div>
-<br>
-<div>
-<a href=https://github.com/chltmdgh522/KaKaoTalk_Project>2023 kakaoTalk_Project</a></div>
-<br>
-<div><a href=https://github.com/chltmdgh522/Chrome_Momentum_Project>2023 Chrome_Momentum_Project</a></div>
-<br>
-<div><a href=https://github.com/chltmdgh522/WeatherApp>2023 Weather App</a></div>
-<br>
-<div><a href=https://github.com/chltmdgh522/HealthTube>2023 HealthTube</a></div>
+- 🌱 I'm studying Python because I want to learn AI development systems.
+- 👯 Project
+  - <a href=https://github.com/chltmdgh522/DonationProject>2024 charitable donation service</a>
+  - <a href=https://github.com/chltmdgh522/Travel_AI>2023 Travel recommendation servic</a>
+  - <a href=https://github.com/chltmdgh522/KaKaoTalk_Project>2023 Kakao talk ui service</a>
+  - <a href=https://github.com/chltmdgh522/WeatherApp>2023 Weather App</a>
+  - <a href=https://github.com/chltmdgh522/HealthTube>2023 HealthTube</a>
