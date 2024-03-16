@@ -8,6 +8,5 @@
 - 👯 Project
   - <a href=https://github.com/chltmdgh522/DonationProject>2024 charitable donation service</a>
   - <a href=https://github.com/chltmdgh522/Travel_AI>2023 Travel recommendation servic</a>
-  - <a href=https://github.com/chltmdgh522/KaKaoTalk_Project>2023 Kakao talk ui service</a>
   - <a href=https://github.com/chltmdgh522/WeatherApp>2023 Weather App</a>
   - <a href=https://github.com/chltmdgh522/HealthTube>2023 HealthTube</a>
