@@ -13,3 +13,4 @@
 
 - 👯  Ongoing Project
   - <a href=https://github.com/chltmdgh522/HistoryProject>2024 History Information</a>
+  - <a href=https://github.com/chltmdgh522/AutoMakeCardNews>2024 LLM Project </a>
