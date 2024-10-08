@@ -30,5 +30,5 @@
   - <a href=https://github.com/chltmdgh522/WeatherApp>2023 WeatherApp</a>
 
 - 👯  Ongoing Project
-  - <a href=https://github.com/chltmdgh522/AutoMakeCardNews>2024 Homework Service 할 예정</a>
+  - 2024 Homework Service 
 
