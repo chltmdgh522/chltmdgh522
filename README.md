@@ -23,12 +23,12 @@
 
 - 🌱 I'm studying Python because I want to learn AI development systems.
 - 👯 Commit Project
-  - <a href=https://github.com/chltmdgh522/DonationProject>2024 charitable donation service</a>
-  - <a href=https://github.com/chltmdgh522/Travel_AI>2023 Travel recommendation servic</a>
+  - <a href=https://github.com/chltmdgh522/FeelBuddy>2024 FeelBuddy Project </a>  
+  - <a href=https://github.com/chltmdgh522/AutoMakeCardNews>2024 CardNewsAutoMake Project </a>  
+  - <a href=https://github.com/chltmdgh522/DonationProject>2024 Donation Service</a>
+  - <a href=https://github.com/chltmdgh522/Travel_AI>2023 Travel recommendation Servic</a>
   - <a href=https://github.com/chltmdgh522/WeatherApp>2023 Weather App</a>
-  - <a href=https://github.com/chltmdgh522/HealthTube>2023 HealthTube</a>
 
 - 👯  Ongoing Project
-  - <a href=https://github.com/chltmdgh522/HistoryProject>2024 History Information</a>
-  - <a href=https://github.com/chltmdgh522/AutoMakeCardNews>2024 LLM Project </a>
+  - <a href=https://github.com/chltmdgh522/AutoMakeCardNews>2024 Homework Service 할 예정</a>
 
