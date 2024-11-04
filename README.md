@@ -23,11 +23,11 @@
 
 - 🌱 I'm studying Python because I want to learn AI development systems.
 - 👯 Commit Project
+  - <a href=https://github.com/orgs/BusCloud11/repositories>2024 GoormBus Project </a>      
   - <a href=https://github.com/chltmdgh522/FeelBuddy>2024 FeelBuddy Project </a>  
   - <a href=https://github.com/chltmdgh522/AutoMakeCardNews>2024 AutoMakeCardNews Project </a>  
   - <a href=https://github.com/chltmdgh522/DonationProject>2024 Donation Service</a>
   - <a href=https://github.com/chltmdgh522/Travel_AI>2023 TravelRecommendation Servic</a>
-  - <a href=https://github.com/chltmdgh522/WeatherApp>2023 WeatherApp</a>
 
 - 👯  Ongoing Project
   - <a href=https://github.com/Pironeer-APP/Pironeer_Homework_Web>2024 Homework Service 
