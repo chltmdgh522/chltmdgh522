@@ -16,6 +16,16 @@
 ## ⌨️ 코딩
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdgh522)](https://solved.ac/chltmdgh522)
 
+## 📃 프로젝트
+
+| 프로젝트명 | 설명 | 깃허브 |
+|------------|------|--------|
+| **📖피로체크** | 피로그래밍 동아리 부원들의 과제 결과 알려주는 웹/앱 서비스 | [진행중](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
+| **🚌구름버스** | 실시간 버스 알림 웹/앱 서비스 | [완료](https://github.com/BusCloud11) |
+| **🥹FeelBuddy** | 사용자의 감정을 치유해주는 웹/앱 서비스 | [완료](https://github.com/Choihohee/kiwoyu) |
+| **📇AMCN** | 생성형 AI를 활용한 카드뉴스 자동 제작 서비스 | [완료](https://github.com/chltmdgh522/AutoMakeCardNews) |
+| **🧳중남미 여행** | 중남미 여행 추천 웹 서비스 | [완료](https://github.com/Choihohee/kiwoyu) |
+
 
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,15 +39,4 @@
 </a>
 
 
-
-- 🌱 I am currently preparing for a job.
-- 👯 Commit Project
-  - <a href=https://github.com/orgs/BusCloud11/repositories>2024 GoormBus Project </a>      
-  - <a href=https://github.com/chltmdgh522/FeelBuddy>2024 FeelBuddy Project </a>  
-  - <a href=https://github.com/chltmdgh522/AutoMakeCardNews>2024 AutoMakeCardNews Project </a>  
-  - <a href=https://github.com/chltmdgh522/DonationProject>2024 Donation Service</a>
-  - <a href=https://github.com/chltmdgh522/Travel_AI>2023 TravelRecommendation Service</a>
-
-- 👯  Ongoing Project
-  - <a href=https://github.com/Pironeer-APP/Pironeer_Homework_Web>2024 Homework Service </a>
 
