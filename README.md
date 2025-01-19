@@ -21,6 +21,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
+| **❓블레이버스** | 미정 | [진행중](https://github.com/Bravers-Piro/Back) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 결과 알려주는 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
 | **🚌구름버스** | 실시간 버스 알림 웹/앱 서비스 | [완료](https://github.com/GoormBus) |
 | **🥹FeelBuddy** | 사용자의 감정을 치유해주는 웹/앱 서비스 | [완료](https://github.com/chltmdgh522/FeelBuddy) |
