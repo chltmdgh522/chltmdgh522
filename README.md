@@ -12,7 +12,7 @@
 ## 🪪 **자격증**   
 - `2025.01` 토익스피킹 IM3
 - `2024.06` 정보처리기사
-- `2023.10` SQLD 자격증
+- `2023.10` SQLD
 
 ## ⌨️ 코딩
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdgh522)](https://solved.ac/chltmdgh522)
