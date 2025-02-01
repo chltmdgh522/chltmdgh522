@@ -28,7 +28,7 @@
 | **📇AMCN** | 생성형 AI를 활용한 카드뉴스 자동 제작 서비스 | [완료](https://github.com/chltmdgh522/AutoMakeCardNews) |
 | **👴자선기부** | 자선 기부 서비스 [개인 프로젝트] | [완료](https://github.com/chltmdgh522/DonationProject) |
 
-## Statistics
+## 📊Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
