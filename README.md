@@ -6,6 +6,7 @@
 - 컴퓨터공학전공 (Computer Engineering)
     
 ## 🏆 수상 경력
+- `2024.12` 2025 블레이버스 MVP 개발 해커톤 테크 인사이트상 수상 (팀명: 헤어색chill..)
 - `2024.12` 캡스톤 경진대회 최우수상 수상 (팀명: AMCN)  
 - `2024.11` 구름톤 11기 대상 수상(팀명: 구름버스)        
      
@@ -21,7 +22,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **💇‍♂️블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [진행중](https://github.com/blaybus-piro/blaybusnewserver) |
+| **💇‍♂️블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 채점 결과 제공 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
 | **🚌구름버스** | 제주 버스 알림콜 웹/앱 서비스 | [완료](https://github.com/GoormBus) |
 | **🥹FeelBuddy** | 사용자의 감정을 치유 챗봇 웹/앱 서비스 | [완료](https://github.com/chltmdgh522/FeelBuddy) |
