@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchltmdgh522&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/chltmdgh522)
 
-## 👩🏻‍💻 About me 
+## 👩🏻‍💻 학력
 - 안양대학교(Anyang University) 
 - 소프트웨어전공 (Software Engineering)   
 - 컴퓨터공학전공 (Computer Engineering)
