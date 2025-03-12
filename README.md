@@ -19,7 +19,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdgh522)](https://solved.ac/chltmdgh522)
 
 ## 📃 프로젝트
-
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **💇‍♂️블레이버스** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
