@@ -21,7 +21,7 @@
 ## 📃 프로젝트
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **💪??** | PT 일지 기록 및 정산 플랫폼 | [예정]() |
+| **💪FlowFit** | PT 일지 기록 및 정산 플랫폼 | [진행중](https://github.com/Flow-Fit/Flow-Fit-BE) |
 | **💇‍♂️블레이버스** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 채점 결과 제공 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
 | **🚌구름버스** | 제주 버스 알림콜 웹/앱 서비스 | [완료](https://github.com/GoormBus) |
