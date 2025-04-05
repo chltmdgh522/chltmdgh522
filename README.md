@@ -23,10 +23,10 @@
 |------------|------|--------|
 | **💪FlowFit** | 트레이너를 위한 Fit한 회원관리 플랫폼 | [진행중](https://github.com/Flow-Fit/Flow-Fit-BE) |
 | **💇‍♂️블레이버스** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
-| **📖피로체크** | 피로그래밍 동아리 부원들의 과제 채점 결과 제공 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
-| **🚌구름버스** | 제주 버스 알림콜 웹/앱 서비스 | [완료](https://github.com/GoormBus) |
-| **🥹FeelBuddy** | 사용자의 감정을 치유 챗봇 웹/앱 서비스 | [완료](https://github.com/chltmdgh522/FeelBuddy) |
-| **📇AMCN** | 생성형 AI를 활용한 카드뉴스 자동 제작 서비스 | [완료](https://github.com/chltmdgh522/AutoMakeCardNews) |
+| **📖피로체크** | 피로그래밍 동아리 부원들의 과제 채점 결과 제공 플랫폼 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
+| **🚌구름버스** | 제주 버스 알림콜 플랫폼 | [완료](https://github.com/GoormBus) |
+| **🥹FeelBuddy** | 감정 치유 챗봇 플랫폼 | [완료](https://github.com/chltmdgh522/FeelBuddy) |
+| **📇AMCN** | 생성형 AI를 활용한 카드뉴스 자동 제작 플랫폼 | [완료](https://github.com/chltmdgh522/AutoMakeCardNews) |
 | **👴자선기부** | 자선 기부 서비스 [개인 프로젝트] | [완료](https://github.com/chltmdgh522/DonationProject) |
 
 ## 📊 통계
