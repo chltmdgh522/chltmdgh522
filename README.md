@@ -22,7 +22,7 @@
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **🖥️공공데이터 공모전** |  육아휴직?? | [진행중]() |
-| **🧪Dream Me** |  꿈 기록 및 분석 플랫폼 | [진행중](https://github.com/STDev15Team/STDev-BE) |
+| **🧪Dream Me** |  꿈 기록 및 분석 플랫폼 | [진행중](https://github.com/DreamMeEE/DreamMe-BE) |
 | **💪FlowFit** | 트레이너를 위한 Fit한 회원관리 플랫폼 | [진행중](https://github.com/Flow-Fit/Flow-Fit-BE) |
 | **💇‍♂️헤어색Chill..** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 채점 결과 제공 플랫폼 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
