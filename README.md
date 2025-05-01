@@ -31,16 +31,15 @@
 | **📇AMCN** | 생성형 AI를 활용한 카드뉴스 자동 제작 플랫폼 | [완료](https://github.com/chltmdgh522/AutoMakeCardNews) |
 | **👴자선기부** | 자선 기부 서비스 [개인 프로젝트] | [완료](https://github.com/chltmdgh522/DonationProject) |
 
-## 📊 통계
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=chltmdgh522&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chltmdgh522&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+## 📊 Statistics 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/chltmdgh522" width="49%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=chltmdgh522&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width="49%" />
+  </a>
+</div>
 
 
 
