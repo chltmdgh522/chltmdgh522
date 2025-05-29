@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchltmdgh522&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/chltmdgh522)
+![d283460e04bf729f4dd6ad5967396d375cd08a1ec3b1072e55a159c571991683 mp4](https://github.com/user-attachments/assets/40540fa9-ab9e-4957-91c1-89eb9560a3b6)
 
 ## 👩🏻‍💻 학력
 - 안양대학교(Anyang University) 
