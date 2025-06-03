@@ -21,7 +21,7 @@
 ## 📃 프로젝트
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **🍜??** |  오늘 뭐 먹지? 플랫폼 | [예정]() |
+| **🍜밤버디** |  오늘 뭐 먹지? 플랫폼 | [예정]() |
 | **🧪Dream Me** |  꿈 해몽 및 분석 플랫폼 | [완료](https://github.com/DreamMeEE/DreamMe-BE) |
 | **💪FlowFit** | 트레이너를 위한 Fit한 회원관리 플랫폼 | [진행중](https://github.com/Flow-Fit/Flow-Fit-BE) |
 | **💇‍♂️헤어색Chill..** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
