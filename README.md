@@ -23,7 +23,7 @@
 |------------|------|--------|
 | **🍜BabBuddy** |  오늘은 뭐 먹을까요? 플랫폼 | [진행중](https://github.com/BabBuddy/Bab-Buddy-BE) |
 | **🧪Dream Me** |  꿈 해몽 및 분석 플랫폼 | [완료](https://github.com/DreamMeEE/DreamMe-BE) |
-| **💪FlowFit** | 트레이너를 위한 Fit한 회원관리 플랫폼 | [진행중](https://github.com/Flow-Fit/Flow-Fit-BE) |
+| **💪FlowFit** | 트레이너를 위한 Fit한 회원관리 플랫폼 | [미정](https://github.com/Flow-Fit/Flow-Fit-BE) |
 | **💇‍♂️헤어색Chill..** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 채점 결과 제공 플랫폼 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
 | **🚌구름버스** | 제주 버스 알림콜 플랫폼 | [완료](https://github.com/GoormBus) |
