@@ -1,5 +1,4 @@
 ## 👩🏻‍💻 학력
-- 안양대학교(Anyang University) 
 - 소프트웨어전공 (Software Engineering)   
 - 컴퓨터공학전공 (Computer Engineering)
     
