@@ -19,7 +19,7 @@
 ## 📃 프로젝트
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **??** |  발달장애 치료 플랫폼 | [예정](https://github.com/BabBuddy/Bab-Buddy-BE) |
+| **🐲마음탐험대** |  발달장애 치료 플랫폼 | [예정](https://github.com/BabBuddy/Bab-Buddy-BE) |
 | **🍜BabBuddy** |  오늘은 뭐 먹을까요? 플랫폼 | [진행중](https://github.com/BabBuddy/Bab-Buddy-BE) |
 | **🧪Dream Me** |  꿈 해몽 및 분석 플랫폼 | [완료](https://github.com/DreamMeEE/DreamMe-BE) |
 | **💇‍♂️헤어색Chill..** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
