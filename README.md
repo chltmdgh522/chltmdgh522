@@ -3,9 +3,10 @@
 - 컴퓨터공학전공 (Computer Engineering)
     
 ## 🏆 수상 경력
-- `2025.02` 2025 블레이버스 MVP 개발 해커톤 테크 인사이트상 수상 (팀명: 헤어색chill..)
-- `2024.11` 캡스톤 경진대회 최우수상 수상 (팀명: AMCN)  
-- `2024.11` 제 11회 9oormthon in JEJU 대상 수상(팀명: 구름버스)        
+- `2025.08` Junction Asia 2025 YBM Track Winner상 수상 
+- `2025.02` 2025 블레이버스 MVP 개발 해커톤 테크 인사이트상 수상 
+- `2024.11` 캡스톤 경진대회 최우수상 수상
+- `2024.11` 제 11회 9oormthon in JEJU 대상 수상  
      
 ## 🪪 **자격증**   
 - `2025.01` 토익스피킹 IM3
@@ -19,6 +20,7 @@
 ## 📃 프로젝트
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
+| **🌍LingClips** |  영어 학습 플랫폼 | [완료](https://github.com/Junction16) |
 | **👨‍👩‍👧‍👦BoomBIM** |  실시간 인구 공유 플랫폼 | [진행중](https://github.com/swyp-app-team-4) |
 | **🐲마음탐험대** |  발달장애 치료 플랫폼 | [완료](https://github.com/chltmdgh522/kpsa-hackathon-2025-team03) |
 | **🍜BabBuddy** |  오늘은 뭐 먹을까요? 플랫폼 | [진행중](https://github.com/BabBuddy/Bab-Buddy-BE) |
