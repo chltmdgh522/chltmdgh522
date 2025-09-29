@@ -20,7 +20,7 @@
 ## 📃 프로젝트
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **🌍LingoClips** |  영어 학습 플랫폼 | [완료](https://github.com/Junction16) |
+| **🌍LingoClips** |  SNS 숏폼 영어 학습 플랫폼 | [완료](https://github.com/Junction16) |
 | **👨‍👩‍👧‍👦BoomBIM** |  실시간 인구 혼잡도 공유 플랫폼 | [완료](https://github.com/swyp-app-team-4) |
 | **🐲마음탐험대** |  발달장애 치료 플랫폼 | [완료](https://github.com/chltmdgh522/kpsa-hackathon-2025-team03) |
 | **🍜BabBuddy** |  오늘은 뭐 먹을까요? 플랫폼 | [진행중](https://github.com/BabBuddy/Bab-Buddy-BE) |
