@@ -23,7 +23,7 @@
 | **🌍LingoClips** |  SNS 숏폼 영어 학습 플랫폼 | [완료](https://github.com/Junction16) |
 | **👨‍👩‍👧‍👦붐빔** |  실시간 인구 혼잡도 공유 플랫폼 | [완료](https://github.com/swyp-app-team-4) |
 | **🐲마음탐험대** |  발달장애 치료 플랫폼 | [완료](https://github.com/chltmdgh522/kpsa-hackathon-2025-team03) |
-| **🍜밥버디** |  오늘은 뭐 먹을까요? 플랫폼 | [완료](https://github.com/BabBuddy/Bab-Buddy-BE) |
+| **🍜밥버디** |  미뉴 추천 플랫폼 | [완료](https://github.com/BabBuddy/Bab-Buddy-BE) |
 | **🧪Dream Me** |  꿈 해몽 및 분석 플랫폼 | [완료](https://github.com/DreamMeEE/DreamMe-BE) |
 | **💇‍♂️헤어색Chill..** | 헤어스타일 컨설팅 예약 플랫폼 | [완료](https://github.com/blaybus-piro/blaybusnewserver) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 채점 결과 제공 플랫폼 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
