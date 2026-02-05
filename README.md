@@ -19,7 +19,7 @@
 ## 📃 프로젝트
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **디그다** |  데이트앱 플랫폼 | [진행중]() |
+| **Digda** |  데이트앱 플랫폼 | [진행중]() |
 | **🌍LingoClips** |  SNS 숏폼 영어 학습 플랫폼 | [완료](https://github.com/Junction16) |
 | **👨‍👩‍👧‍👦붐빔** |  실시간 인구 혼잡도 공유 플랫폼 | [완료](https://github.com/swyp-app-team-4) |
 | **🐲마음탐험대** |  발달장애 치료 플랫폼 | [완료](https://github.com/chltmdgh522/kpsa-hackathon-2025-team03) |
