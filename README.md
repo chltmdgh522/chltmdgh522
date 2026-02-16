@@ -2,6 +2,7 @@
 - 소프트웨어전공 (Software Engineering)   
 - 컴퓨터공학전공 (Computer Engineering)
     
+
 ## 🏆 수상 경력
 - `2025.08` Junction Asia 2025 YBM Track Winner상 수상 (팀명: 404 found ) 
 - `2025.02` 2025 블레이버스 MVP 개발 해커톤 테크 인사이트상 수상 (팀명: 헤어색chill..)
