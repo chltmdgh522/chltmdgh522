@@ -1,7 +1,6 @@
 ## 👩🏻‍💻 학력
 - 소프트웨어전공 (Software Engineering)   
 - 컴퓨터공학전공 (Computer Engineering)
-    
 
 ## 🏆 수상 경력
 - `2025.08` Junction Asia 2025 YBM Track Winner상 수상 (팀명: 404 found ) 
